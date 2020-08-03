@@ -1,0 +1,35 @@
+h1{
+    color: rgb(28, 28, 100);
+    text-align: center;
+    text-decoration: underline;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 2px 1px 6px;
+}
+
+div{
+    margin: 20px;
+}
+
+fieldset{
+    border-radius: 50px;
+    border-color: teal;
+    color: rgb(1, 1, 22);
+    font-size: 20px;
+}
+
+body{
+    background-image: url("quiz image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+button:hover{
+    color: lightblue;
+    background-color: rgb(45, 45, 122);
+}
+
+#result{
+    padding: 3px;
+    border-radius: 5px;
+}    
